@@ -1,0 +1,40 @@
+{
+	"chirps": {
+		"1": {
+			"id": 1,
+			"author_id": 1,
+			"body": "I'm the one who knocks!"
+		},
+		"2": {
+			"id": 2,
+			"author_id": 1,
+			"body": "Gale!"
+		},
+		"3": {
+			"id": 3,
+			"author_id": 1,
+			"body": "Cmon Pinkman"
+		},
+		"4": {
+			"id": 4,
+			"author_id": 1,
+			"body": "Darn that fly, I just wanna cook"
+		}
+	},
+	"users": {
+		"1": {
+			"id": 1,
+			"email": "walt@breakingbad.com",
+			"password": "$2a$10$zWr.tAOm800gkF1FNltmS.FyG94kJlDcqtXsqS.wusAPK3CTmltUK",
+			"is_chirpy_red": false
+		}
+	},
+	"refresh_tokens": {
+		"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjaGlycHktcmVmcmVzaCIsInN1YiI6IjEiLCJleHAiOjE3MTE2MDY3ODksImlhdCI6MTcwNjQyMjc4OX0.IBjVyiOEg3CVZDyUrWHzvejKK0gVJyQvCZpaH4HzECs": {
+			"refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjaGlycHktcmVmcmVzaCIsInN1YiI6IjEiLCJleHAiOjE3MTE2MDY3ODksImlhdCI6MTcwNjQyMjc4OX0.IBjVyiOEg3CVZDyUrWHzvejKK0gVJyQvCZpaH4HzECs",
+			"user_id": 1,
+			"is_revoked": false,
+			"revoked_at": "0001-01-01T00:00:00Z"
+		}
+	}
+}
